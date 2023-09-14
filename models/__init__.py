@@ -1,0 +1,2 @@
+from .backbones.vit_setr import VisionTransformerSETR
+from .decode_heads.vit_up_head import VisionTransformerUpHead
