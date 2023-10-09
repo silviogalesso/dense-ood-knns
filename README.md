@@ -16,7 +16,7 @@ The model configuration files are in `nn_od_configs/models`.
 Some model checkpoints trained on Cityscapes, for the given model configurations:
 * Segmenter ViT-B linear head: [weights](https://lmb.informatik.uni-freiburg.de/resources/binaries/dense_ood_knns/segmenter_deit-b_linear_cityscapes.pth)
 * SETR Naive ViT-B: [weights](https://drive.google.com/file/d/1kGzdSLCazsbgZe0Y1Lo6sNwv9s5V3CAp/view?usp=sharing) (from https://github.com/fudan-zvg/SETR)
-* SETR Naive ViT-B: [weights](https://download.openmmlab.com/mmsegmentation/v0.5/setr/setr_naive_vit-large_8x1_768x768_80k_cityscapes/setr_naive_vit-large_8x1_768x768_80k_cityscapes_20211123_000505-20728e80.pth) (from https://github.com/open-mmlab/mmsegmentation)
+* SETR Naive ViT-L: [weights](https://download.openmmlab.com/mmsegmentation/v0.5/setr/setr_naive_vit-large_8x1_768x768_80k_cityscapes/setr_naive_vit-large_8x1_768x768_80k_cityscapes_20211123_000505-20728e80.pth) (from https://github.com/open-mmlab/mmsegmentation)
 * UPerNet ConvNeXt-S: [weights](https://lmb.informatik.uni-freiburg.de/resources/binaries/dense_ood_knns/upernet_convnext_small_cityscapes.pth)
 
 ## Usage
