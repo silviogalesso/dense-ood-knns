@@ -1,4 +1,4 @@
-# Far Away in the Deep Space: Dense Nearest-Neighbor-Based Out-of-Distribution Detection
+# Far Away in the Deep Space: Dense Nearest-Neighbor-Based Out-of-Distribution Detection ([UNCV](https://uncv2023.github.io/) @ ICCV 2023)
 Official pytorch implementation of: https://arxiv.org/abs/2211.06660
 
 <img src="https://user-images.githubusercontent.com/16369841/228007868-517a5348-ba6f-486b-b340-9fec9b588072.jpg" width="600" />
